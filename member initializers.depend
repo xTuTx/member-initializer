@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522249193 source:c:\users\leader\desktop\member initializers\main.cpp
+	"genji.h"
+	<iostream>
+
+1522249267 c:\users\leader\desktop\member initializers\include\genji.h
+	<iostream>
+
+1522249297 source:c:\users\leader\desktop\member initializers\src\genji.cpp
+	"genji.h"
+	<iostream>
+
